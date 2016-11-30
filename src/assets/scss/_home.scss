@@ -1,0 +1,58 @@
+.welkomsimg{
+	background: url(../img/denhaag.jpg) no-repeat;
+	background-size:100% 100%;
+	color: #fff;
+	text-transform: uppercase;
+	article{
+		width: 29%;
+    	margin: 23% auto;
+	}
+	p{
+		text-transform: none; 
+	}
+	
+
+} 
+.home-passies{
+	background: url(../img/dylandonkers-foto.jpg) no-repeat;
+	background-size:100% 100%;
+	position:relative;
+
+	.large-12.columns{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.left{
+		padding-top:1.5rem;
+	}
+
+	article{
+		height: 85%;
+
+	}
+ 
+	nav{
+		
+
+		button{
+			height: 15%;
+		    text-align: center;
+		    background: #222222;
+		    padding: 2% 0;
+		    font-size: 2.5rem;
+		    color: #fff;
+		    width: 33.33%;
+		}
+
+		.activebutton{
+			color: #222222;
+			background: #fff;
+		}
+	}
+} 
+b{
+  color: #00b4ff; 
+}
+section{
+	margin-bottom:30px;
+}

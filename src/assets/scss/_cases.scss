@@ -1,0 +1,41 @@
+.case-uitgelicht{
+	article{
+		height: 100%;
+	}
+	article.left{
+		background: #222;
+		color: #fff;
+		padding-top:1.5rem;
+	}
+	.top{
+		height: 70vh;
+	}
+	article.right{
+		overflow: hidden;
+		padding:0;
+			img{
+				width: 100%;
+			}
+	}
+	div.left{
+		width: 50%;
+		button{
+			padding: 20px;
+		    border: 2px solid #fff;
+		    text-decoration: none;
+		    float: left;
+		    color: #ffffff;
+		}
+	}
+	div.right{
+		width: 50%;
+		button{
+			padding: 20px;
+		    background: #00b4ff;
+		    text-decoration: none;
+		    float: right;
+		    color: #fff;
+		    border: 2px solid #00b4ff;
+		}
+	}
+}
